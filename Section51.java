@@ -25,7 +25,7 @@ public class Section51{
 
     public static void main(String[] args) {
         System.out.println("Start");
-        int[] arr = {3,7,1,5};
+        int[] arr = {3,0,4};
         sort(arr);
         System.out.println(Arrays.toString(arr));
         System.out.println("The END");
