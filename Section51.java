@@ -12,5 +12,6 @@ public class Section51{
         int[] arr = {3,7,1,5};
         sort(arr);
         System.out.println(Arrays.toString(arr));
+        System.out.println("The END");
     }
 }
